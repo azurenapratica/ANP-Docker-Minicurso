@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessadorMensagens", "ProcessadorMensagens.csproj", "{2A25FAD2-C9E3-48E1-86D5-2AFD8F6BFA76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A25FAD2-C9E3-48E1-86D5-2AFD8F6BFA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A25FAD2-C9E3-48E1-86D5-2AFD8F6BFA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A25FAD2-C9E3-48E1-86D5-2AFD8F6BFA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A25FAD2-C9E3-48E1-86D5-2AFD8F6BFA76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB65E22B-EFF8-4BDA-BDE1-E1FC183D24C8}
+	EndGlobalSection
+EndGlobal
